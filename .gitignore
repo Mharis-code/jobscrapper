@@ -1,0 +1,19 @@
+# Secrets — never commit these
+.env
+config.json
+
+# Output files
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
