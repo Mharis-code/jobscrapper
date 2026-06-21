@@ -1,4 +1,4 @@
-# Job Scraper — Claude Code Skill
+# Job Scraper 
 
 A Claude Code skill that scrapes Canadian job listings from up to 11 job boards simultaneously using the [Firecrawl](https://firecrawl.dev) API. Results are exported to a clean CSV file with job title, company, location, salary, and a direct application link.
 
